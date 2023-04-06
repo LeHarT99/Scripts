@@ -1,5 +1,5 @@
 from pynput.mouse import Listener
-import os, keyboard
+import os
 
 izq = 0
 der = 0
